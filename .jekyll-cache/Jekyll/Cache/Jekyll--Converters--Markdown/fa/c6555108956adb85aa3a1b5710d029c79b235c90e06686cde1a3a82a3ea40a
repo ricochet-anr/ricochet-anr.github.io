@@ -1,20 +1,26 @@
----
-title: "RICOCHET - ANR project"
-layout: homelay
-excerpt: ""
-sitemap: false
-permalink: /
----
+I"Ã<h3 id="bivariate-signal-processing--a-geometric-approach-to-decipher-polarization">Bivariate signal processing: <br /> a geometric approach to decipher polarization</h3>
 
-### Bivariate signal processing: <br> a geometric approach to decipher polarization
-*[ANR project number ANR-21-CE48-0013](https://anr.fr/Project-ANR-21-CE48-0013)*
+<div class="container-fluid">
+  <div class="row">
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class ="col-md-6 col-sm-6"&gt;
+    First Div
+&lt;/div&gt;
+&lt;div class ="col-md-6 col-sm-6"&gt;
+    Second Div
+ &lt;/div&gt;
+</code></pre></div>    </div>
+  </div>
+</div>
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANR.jpg" style="height: 50px; margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Gipsa.jpg" style="height: 50px;margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRAN.jpg" style="height: 50px; margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_APC.png" style="height: 50px; margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Cristal.png" style="height: 50px">
+  <p><img src="/images/logopic/Logo_ANR.jpg" style="height: 50px; margin:30px" /> &lt;p &gt;<em><a href="https://anr.fr/Project-ANR-21-CE48-0013">ANR project number ANR-21-CE48-0013</a></em> &lt;/p&gt;</p>
+</figure>
+
+<figure>
+  <p><img src="/images/logopic/Logo_Gipsa.jpg" style="height: 50px;margin:10px" />
+  <img src="/images/logopic/Logo_CRAN.jpg" style="height: 50px; margin:10px" />
+  <img src="/images/logopic/Logo_APC.png" style="height: 50px; margin:10px" />
+  <img src="/images/logopic/Logo_Cristal.png" style="height: 50px" /></p>
 </figure>
 <!-- <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseAbstract" aria-expanded="false" aria-controls="collapseAbstract">
@@ -36,8 +42,9 @@ The RICOCHET project aims at establishing a complete set of theoretical and meth
   </div>
 </div> -->
 
-<!-- <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRAN.jpg" style="height: 80px; margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CNRS.png" style="height: 80px;margin:10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UL.png" style="height: 80px">
-</figure> -->
+<figure>
+  <p><img src="/images/logopic/Logo_CRAN.jpg" style="height: 80px; margin:10px" />
+  <img src="/images/logopic/Logo_CNRS.png" style="height: 80px;margin:10px" />
+  <img src="/images/logopic/Logo_UL.png" style="height: 80px" /></p>
+</figure>
+:ET
