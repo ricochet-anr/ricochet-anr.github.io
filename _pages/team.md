@@ -1,7 +1,7 @@
 ---
-title: "SiMul research group @ CRAN - Team"
+title: "RICOCHET  - Team"
 layout: gridlay
-excerpt: "SiMul research group @ CRAN: Team members"
+excerpt: "RICOCHET: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -248,7 +248,8 @@ Jump to [Faculty](#faculty), [Graduate students](#graduate-students), [alumni](#
 {% endif %} -->
 
 ## Alumni
-<div class="row">
+No one yet, we just started the project !
+<!-- <div class="row">
 <div class="col-md-6 clearfix">
 <h4>Postdoctoral researchers</h4>
 {% for member in site.data.alumni_postdocs %}
@@ -279,4 +280,4 @@ Jump to [Faculty](#faculty), [Graduate students](#graduate-students), [alumni](#
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->

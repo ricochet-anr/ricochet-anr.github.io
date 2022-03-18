@@ -1,7 +1,7 @@
 ---
-title: "SiMul research group @ CRAN - Research"
+title: "RICOCHET - Research"
 layout: textlay
-excerpt: "SiMul research group @ CRAN -- Research"
+excerpt: "RICOCHET - Publications - Research"
 sitemap: false
 permalink: /research/
 ---

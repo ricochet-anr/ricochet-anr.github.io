@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "SiMul research group @ CRAN"
+excerpt: "RICOCHET - news"
 sitemap: false
 permalink: /allnews.html
 ---
