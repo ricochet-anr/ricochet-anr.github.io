@@ -1,42 +1,115 @@
 - name: Nicolas Le Bihan
   photo: misc.jpg
-  info: Senior research scientist, CNRS, Gipsa-Lab
-  email:
+  lab: Gipsa-Lab, Grenoble
+  info: CNRS Senior Researcher
+  email: nicolas.le-bihan@gipsa-lab.grenoble-inp.fr
   keywords: PI of RICOCHET
+  website: http://www.gipsa-lab.grenoble-inp.fr/~nicolas.le-bihan/
+  scholar: https://scholar.google.com/citations?user=gUYd8KYAAAAJ&hl=fr
+  researchgate: https://www.researchgate.net/profile/Nicolas-Le-Bihan
 
-- name: Sebastian Miron
-  photo: miron.jpg
-  info: Associate Professor, Université de Lorraine, CRAN
-  email: sebastian.miron@univ-lorraine.fr
-  keywords:
-  website: http://w3.cran.univ-lorraine.fr/perso/sebastian.miron/
-  scholar: https://scholar.google.com/citations?user=fyAwACwAAAAJ&hl=fr
-  researchgate: https://www.researchgate.net/profile/Sebastian-Miron
+- name: Eric Chassande-Mottin
+  photo: misc.jpg
+  lab: APC, Paris
+  info: CNRS Senior Researcher
+  email: ecm@apc.in2p3.FR
+  keywords: APC coordinator of RICOCHET
+  website: https://apc.u-paris.fr/~ecm/index.html
+  scholar: https://scholar.google.com/citations?user=VqogoYwAAAAJ&hl=en
 
+- name: Pierre Chainais
+  photo: misc.jpg
+  lab: CRIStAL, Lille
+  info: Full professor, Centrale Lille
+  email: pierre.chainais@centralelille.fr
+  keywords: CRIStAL coordinator of RICOCHET
+  website: http://pierrechainais.ec-lille.fr
+  scholar: https://scholar.google.com/citations?user=DVdbdP4AAAAJ&hl=fr
+  researchgate: https://www.researchgate.net/profile/P-Chainais
+
+- name: Julien Flamant
+  photo: flamant.jpg
+  lab: CRAN, Nancy
+  info: CNRS researcher
+  email: julien.flamant@univ-lorraine.fr
+  keywords: CRAN coordinator of RICOCHET
+  website: https://jflamant.github.io
+  scholar: https://scholar.google.com/citations?user=rNN19hcAAAAJ&hl=fr
+  researchgate: https://www.researchgate.net/profile/Julien_Flamant
+
+
+- name: Pierre-Olivier Amblard
+  photo: misc.jpg
+  info: CNRS Senior Researcher
+  lab: Gipsa-Lab, Grenoble
+
+- name: Stanislav Babak
+  photo: misc.jpg
+  info: CNRS Senior Researcher
+  lab: APC, Paris
+
+- name: Julien Bonnel
+  photo: misc.jpg
+  info: Associate scientist, Woods Hole Oceanographic Institution
+  lab: WHOI, USA
+
+- name: Jérémie Boulanger
+  photo: misc.jpg
+  info: Associate Professor, Université de Lille
+  lab: CRIStAL, Lille
+
+- name: Rémy Boyer
+  photo: misc.jpg
+  info: Full Professor, Université de Lille
+  lab: CRIStAL, Lille
 
 - name: David  Brie
   photo: brie.jpg
-  info: Full Professor, Université de Lorraine, CRAN
+  info: Full Professor, Université de Lorraine
+  lab: CRAN, Nancy
   email: davie.brie@univ-lorraine.fr
-  keywords:
   website: http://www.cran.univ-lorraine.fr/detailindividupublic.php?appel=annuaire&codetheme&codeindividu=00089&codelangue=FR
   scholar: https://scholar.google.fr/citations?user=BknnqrgAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/David-Brie
 
+- name: Florent Chatelain
+  photo: misc.jpg
+  info: Associate Professor, Université Grenoble-Alpes
+  lab: Gipsa-Lab, Grenoble
+
+- name: Fangchen Feng
+  photo: misc.jpg
+  info: Associate Professor, Université Paris-Grenoble
+  lab: LT2I, Paris
+
+- name: Olivier Michel
+  photo: misc.jpg
+  info: Full Professor, Université Grenoble-Alpes
+  lab: Gipsa-Lab, Grenoble
+
+- name: Sebastian Miron
+  photo: miron.jpg
+  info: Associate Professor, Université de Lorraine
+  lab: CRAN, Nancy
+  email: sebastian.miron@univ-lorraine.fr
+  website: http://w3.cran.univ-lorraine.fr/perso/sebastian.miron/
+  scholar: https://scholar.google.com/citations?user=fyAwACwAAAAJ&hl=fr
+  researchgate: https://www.researchgate.net/profile/Sebastian-Miron
+
+- name: Pierre-Antoine Thouvenin
+  photo: misc.jpg
+  info: Associate Professor, Centrale Lille
+  lab: CRIStAL, Lille
 
 - name: Konstantin Usevich
   photo: usevich.jpg
   info: CNRS researcher
+  lab: CRAN, Nancy
   email: konstantin.usevich@univ-lorraine.fr
-  keywords:
   website: http://w3.cran.univ-lorraine.fr/konstantin.usevich/?q=content/home
   scholar: https://scholar.google.com/citations?user=9qkzr10AAAAJ&hl=fr
 
-- name: Julien Flamant
-  photo: flamant.jpg
-  info: CNRS researcher
-  email: julien.flamant@univ-lorraine.fr
-  keywords:
-  website: https://jflamant.github.io
-  scholar: https://scholar.google.com/citations?user=rNN19hcAAAAJ&hl=fr
-  researchgate: https://www.researchgate.net/profile/Julien_Flamant
+- name: Marc Wathelet
+  photo: misc.jpg
+  info: IRD Researcher
+  lab: ISTERRE, Grenoble

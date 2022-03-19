@@ -6,12 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Project Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
-
-
-Jump to [Faculty](#faculty), [Graduate students](#graduate-students), [alumni](#alumni), [visitors](#lab-visitors).
+ **We are  looking for new PhD students, Postdocs, and Master students to join the project team** [(see openings)]({{ site.url }}{{ site.baseurl }}/jobs) **!**
 
 ## Faculty
 {% assign number_printed = 0 %}
@@ -28,7 +25,9 @@ Jump to [Faculty](#faculty), [Graduate students](#graduate-students), [alumni](#
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i> <!--<br>email: <{{ member.email }}></i> -->
     <br/>
-  {{member.keywords}}
+  {{member.lab}}
+  <br/>
+  <b>{{member.keywords}}</b>
   <br/>
   <ul class="list-inline">
   {% if member.email %}

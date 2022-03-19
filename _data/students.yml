@@ -11,5 +11,11 @@
 - name: Cyril Cano
   photo: misc.jpg
   info: PhD student
-  email:
-  subject: ""
+  email: Cyril.Cano@gipsa-lab.grenoble-inp.fr
+  subject: "Outils mathématiques et de traitement du signal pour l’étude polarimétrique des ondes gravitationnelles"
+
+- name: Sébastien Journé
+  photo: misc.jpg
+  info: PhD student
+  email: Sebastien.Journe@gipsa-lab.grenoble-inp.fr
+  subject: "Traitement statistique et géométrique du signal pour les séries temporelles à valeurs complexes en grande dimension"
