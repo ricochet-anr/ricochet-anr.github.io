@@ -4,7 +4,16 @@
 
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
-<p>{{ article.headline }}</p>
+<p>{{ article.headline }}
+{% if article.img %}
+{% if article.pdf %}
+<a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/{{ article.pdf }}"><img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.img }}" class="img-responsive" width="100%"/></a>
+{% else %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/news/{{ article.img }}" class="img-responsive" width="100%"/>
+
+{% endif %}
+{% endif %}
+</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
