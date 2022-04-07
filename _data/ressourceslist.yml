@@ -8,7 +8,7 @@
 -  speaker: Éric Chassande-Mottin
    institution: APC, Paris
    date:  March, 23rd 2022, Grenoble, Kick-off meeting
-   title: Gravitational wave astronomy: state of the art and perspectives for RICOCHET
+   title: "Gravitational wave astronomy: state of the art and perspectives for RICOCHET"
    active: 1
    pdf : slidesECM-Kickoff.pdf
 
@@ -29,21 +29,21 @@
 -  speaker: Stanislas Babak
    institution: APC, Paris
    date:  March, 24th 2022, Grenoble, Kick-off meeting
-   title: LISA: data analysis challenges
+   title: "LISA: data analysis challenges"
    active: 1
    pdf : slidesSB-Kickoff.pdf
 
 -  speaker: Pierre Chainais
    institution: CRIStAL, Lille
    date:  March, 24th 2022, Grenoble, Kick-off meeting
-   title: Efficient sampling through variable spllitting: credibility intervals
+   title: "Efficient sampling through variable splitting: credibility intervals"
    active: 1
    pdf : slidesPC-Kickoff.pdf
 
 -  speaker: Konstantin Usevich
    institution: CRAN, Nancy
    date:  March, 24th 2022, Grenoble, Kick-off meeting
-   title: Structured low-rank [matrix] approximation: a useful tool for signal processing
+   title: "Structured low-rank [matrix] approximation: a useful tool for signal processing"
    active: 1
    pdf : slidesKU-Kickoff.pdf
 
