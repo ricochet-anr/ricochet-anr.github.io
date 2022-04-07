@@ -3,7 +3,7 @@ title: "RICOCHET - ressources"
 layout: textlay
 excerpt: "Ressources"
 sitemap: false
-permalink: /ressources
+permalink: /ressources/
 ---
 
 # Ressources
