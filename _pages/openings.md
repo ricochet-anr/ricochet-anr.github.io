@@ -3,7 +3,7 @@ title: "RICOCHET - openings"
 layout: textlay
 excerpt: "openings"
 sitemap: false
-permalink: /jobs
+permalink: /jobs/
 ---
 
 # Open positions
@@ -20,15 +20,9 @@ If you are interested in joining us, please contact one of us directly by email 
  <em>{{ openings.title }}</em><br/>
 
  <p>
-      {% if openings.pdf%} <button type="button" class="btn btn-light" onclick="window.location='/assets/jobs/{{openings.pdf}}';">Slides</button> {% endif %}
+      {% if openings.pdf%} <button type="button" class="btn btn-light" onclick="window.location='/assets/jobs/{{openings.pdf}}';">PhD Subject description</button> {% endif %}
     </p>
 
- <!--
- <div class="collapse" id="collapse-up-{{forloop.index}}">
-   <div class="card card-body">
-   {{seminar.abstract}}
-   </div>
- </div>
- -->
+
  {% endif %}
  {% endfor %}
