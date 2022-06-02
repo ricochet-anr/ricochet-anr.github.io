@@ -17,7 +17,7 @@ If you are interested in joining us, please contact one of us directly by email 
 {% if openings.active == 1%}
 
 <b>{{ openings.style }}</b>  au {{openings.institution}}<br/>
- <em>{{ "openings.title" }}</em><br/>
+ <em>""{{openings.title}}"</em><br/>
 
  <p>
       {% if openings.pdf%} <button type="button" class="btn btn-light" onclick="window.location='/assets/jobs/{{openings.pdf}}';">PhD Subject description</button> {% endif %}
