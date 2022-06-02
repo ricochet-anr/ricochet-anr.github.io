@@ -1,7 +1,7 @@
 ---
 title: "RICOCHET - openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "openings"
 sitemap: false
 permalink: /jobs
 ---
