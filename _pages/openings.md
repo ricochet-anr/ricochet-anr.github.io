@@ -11,7 +11,8 @@ permalink: /jobs/
 We are always looking for bright and talented students to join our research group.
 If you are interested in joining us, please contact one of us directly by email (see [team members]({{ site.url }}{{ site.baseurl }}/team/))
 
-## Available PhD positions
+
+## Available positions
 
 {% for openings in site.data.jobslist %}
 {% if openings.active == 1%}
