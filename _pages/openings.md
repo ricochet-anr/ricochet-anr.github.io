@@ -21,7 +21,7 @@ If you are interested in joining us, please contact one of us directly by email 
  <em>""{{openings.title}}"</em><br/>
 
  <p>
-      {% if openings.pdf%} <button type="button" class="btn btn-light" onclick="window.location='/assets/jobs/{{openings.pdf}}';">PhD Subject description</button> {% endif %}
+      {% if openings.pdf%} <button type="button" class="btn btn-light" onclick="window.location='/assets/jobs/{{openings.pdf}}';">Subject description</button> {% endif %}
     </p>
 
 
