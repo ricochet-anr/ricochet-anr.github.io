@@ -9,6 +9,9 @@ permalink: /publications/
 
 # Publications
 
+
+<iframe width="100%" frameBorder="0" height="500px" src='https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?projet_anr=ANR-21-CE48-0013&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css' ></iframe>
+
 <!-- ## Group highlights
 
 {% assign number_printed = 0 %}
