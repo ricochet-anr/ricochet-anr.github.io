@@ -32,7 +32,7 @@ permalink: /team/
   <ul class="list-inline">
   {% if member.email %}
   <li class="list-inline-item">
-  <a href="{{member.email}}"  title="email" class="no-mark-external">
+  <a href="mailto:{{member.email}}"  title="email" class="no-mark-external">
     <span class="fa fa-envelope"></span>
     <!-- <span class="sr-only">{{ name }}</span> -->
   </a>
