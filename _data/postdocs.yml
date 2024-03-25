@@ -9,8 +9,9 @@
 #  education4:
 
 - name: Yusuf Yigit Pilavci
-  photo: misc.jpg
-  info: Post-doctoral researcher at Cristal (Lille)
+  photo: yigit.jpeg
+  info: Post-doctoral researcher
+   lab: CRIStAL, Lille
   email: yusuf.pilavci@centralelille.fr
   subject: "Inverse problems on bivariate signals for gravitational waves rdenoising and reconstruction"
 
