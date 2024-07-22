@@ -12,10 +12,16 @@
   photo: yigit.jpeg
   info: Post-doctoral researcher at CRIStAL (Lille)
   email: yusuf.pilavci@centralelille.fr
-  subject: "Inverse problems on bivariate signals for gravitational waves rdenoising and reconstruction"
+  subject: "Inverse problems on bivariate signals for gravitational waves denoising and reconstruction"
 
 - name: Pierre Palud
   photo: misc.jpg
   info: Post-doctoral researcher at APC (Paris)
   email: palud@apc.in2p3.fr
   subject: "Application and adaptation of statistical inference algorithms to gravitational wave signals, with a focus on the polarization information"
+
+- name: Philippe Flores
+  photo: misc.jpg
+  info: Post-doctoral researcher at Gipsa-lab (Grenoble)
+  email: philippe.flores@gipsa-lab.fr
+  subject: "Non-linear and geometrical models for bivariate signals: application to polarized gravitational wave analysis"
