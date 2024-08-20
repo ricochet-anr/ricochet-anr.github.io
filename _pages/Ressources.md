@@ -10,6 +10,12 @@ permalink: /ressources/
 
 On this page you can find various material, including presentations of member of Ricochet in seminars, conferences or Ricochet meetings.
 
+## Eusipco 2024 tutorial on bivariate signal processing
+
+During [Eusipco 2024](https://eusipcolyon.sciencesconf.org/) in Lyon, France, we are organizing a tutorial on the basics of bivariate signal processing, focusing on polarization, physical, and quaternion viewpoints. 
+Check out the [dedicated GitHub repo](https://github.com/ricochet-anr/2024_eusipco_tutorial_bivariate_signal_processing) for more details (slides, notebooks, and references).
+
+
 
 ## Presentations
 
