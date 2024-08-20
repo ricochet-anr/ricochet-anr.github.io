@@ -16,6 +16,8 @@ During [Eusipco 2024](https://eusipcolyon.sciencesconf.org/) in Lyon, France, we
 Check out the [dedicated GitHub repo](https://github.com/ricochet-anr/2024_eusipco_tutorial_bivariate_signal_processing) for more details (slides, notebooks, and references).
 
 
+{% include repository/repo.html repository='ricochet-anr/2024_eusipco_tutorial_bivariate_signal_processing' %}
+
 
 ## Presentations
 

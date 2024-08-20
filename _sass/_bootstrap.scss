@@ -56,3 +56,18 @@
 @import "bootstrap/responsive-utilities";
 @import "bootstrap/bootswatch";
 
+// repositories 
+
+@media (min-width: 768px) {
+    .repo {
+      max-width: 50%;
+    }
+  }
+
+.repo-img-light {
+display: block;
+}
+.repo-img-dark {
+display: none;
+}
+
